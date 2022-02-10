@@ -4,7 +4,8 @@ import { GLView } from 'expo-gl';
 /**
  * only import
  */
-import {PIXI} from 'expo-pixi';
+// import {PIXI} from 'expo-pixi';
+import { THREE } from 'expo-three';
 
 export default function App() {
   return (
