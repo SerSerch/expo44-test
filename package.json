@@ -10,7 +10,18 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "@pixi/constants": "^6.2.2",
+    "@pixi/core": "^6.2.2",
+    "@pixi/filter-alpha": "^6.2.2",
+    "@pixi/filter-blur": "^6.2.2",
+    "@pixi/math": "^6.2.2",
+    "@pixi/runner": "^6.2.2",
+    "@pixi/settings": "^6.2.2",
+    "@pixi/ticker": "^6.2.2",
+    "@pixi/utils": "^6.2.2",
     "expo": "~44.0.0",
+    "expo-gl": "~11.1.1",
+    "expo-pixi": "^2.0.0",
     "expo-status-bar": "~1.2.0",
     "react": "17.0.1",
     "react-dom": "17.0.1",
