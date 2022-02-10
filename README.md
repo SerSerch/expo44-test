@@ -1,3 +1,4 @@
+```
 Expo CLI 5.1.1 environment info:
 System:
 OS: Windows 10 10.0.17763
@@ -19,3 +20,4 @@ react-dom: 17.0.1 => 17.0.1
 react-native: 0.64.3 => 0.64.3
 react-native-web: 0.17.1 => 0.17.1
 Expo Workflow: managed
+```
